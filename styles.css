@@ -91,18 +91,15 @@ h4 {
 }
 
 .contact {
-    display: flex;
     margin-top: 4vh;
-    width: 80vw;
-    margin-left: 10vw;
     font-size: 16px;
     font-family: 'arial', sans-serif;
     margin-bottom: 8vh;
-    justify-content: space-between;
 }
 
 .adres {
     width: 35vw;
+    margin-bottom: 4vh;
 }
 
 .details {
