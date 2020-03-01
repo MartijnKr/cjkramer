@@ -155,7 +155,7 @@ footer span {
     .nav-bar {
         flex-direction: column;
         justify-content: center;
-        font-size: 18px;
+        font-size: 24px;
     }
     .nav-bar ul {
         flex-direction: column;
@@ -164,6 +164,9 @@ footer span {
     }
     .nav-icon {
         display: block;
+    }
+    #nav-content{
+        display: none;
     }
     .login-btn {
         all: unset;
