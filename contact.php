@@ -1,7 +1,7 @@
 <?php include 'header.html'; ?>
 
 <h4><b>CJ Kramer Transport B.V.</b></h4>
-<div class="contact">
+<div align="center" class="contact">
     <table class="table adres">
         <tr>
             <td>Adres</td>
@@ -17,7 +17,7 @@
             <td> <a href="mailto:info@cjkramer.nl">info@cjkramer.nl</a></td>
         </tr>
     </table>
-    <table align="right" class="table details">
+    <table class="table details">
         <tr>
             <td>KVK</td>
             <td> 76319318</td>
